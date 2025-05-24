@@ -1,4 +1,3 @@
-# CVGL_cdm_net
 
 CDM-Net : A Framework for Cross-View Geo-localization with Multimodal Data
 
