@@ -34,5 +34,9 @@ pip install .
 
 [GeoText-1652](https://github.com/MultimodalGeo/GeoText-1652)
 
+[Janus](https://github.com/deepseek-ai/Janus)
+
+[Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
+
 [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
 
