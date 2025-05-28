@@ -37,6 +37,7 @@ img_aug/
 ├── light/
 
 └── wind/
+![weather](weather.png)
 
 **mode=2:**
 
