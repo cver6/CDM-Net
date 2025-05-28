@@ -26,6 +26,7 @@ pip install .
 
 **For Multi-weather-University1652 use Dynamic_Weather.py to generate**
 **Set mode=1:**
+
 img_aug/
 
 ├── dark/
@@ -37,6 +38,7 @@ img_aug/
 └── wind/
 
 **mode=2:**
+
 img_aug/
 
 ├── rain/
