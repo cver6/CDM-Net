@@ -25,6 +25,19 @@ pip install .
 **Urban-500   link:** https://pan.baidu.com/s/1ah1UT29j7zMTsTPq2Y9xyA?pwd=
 
 **For Multi-weather-University1652 use Dynamic_Weather.py to generate**
+### Set mode=1 ：
+img_aug/
+├── dark/
+├── fog/
+├── light/
+└── wind/
+
+### mode=2 ：
+img_aug/
+├── rain/
+├── snow/
+├── fog_rain/
+└── fog_snow/
 
 ## Acknowledgements
 
