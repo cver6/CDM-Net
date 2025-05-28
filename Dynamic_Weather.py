@@ -44,9 +44,9 @@ elif mode == 2:
     }
 
 # 输入文件夹路径（包含所有待处理图像）
-input_folder = '/media/hk/soft/zx/drone_dataset/tgrs_duibi-method/Safe-Net/data/University-Release/test/query_drone'
+input_folder = './data/University-Release/test/query_drone'
 # 输出文件夹路径（保存增强后的图像）
-output_folder = '/media/hk/soft/zx/drone_dataset/tgrs_duibi-method/Safe-Net/data/University-Release/test/img_aug'
+output_folder = './data/University-Release/test/img_aug'
 
 print(f"当前运行模式: {mode}")
 print(f"增强类型: {list(environments.keys())}")
