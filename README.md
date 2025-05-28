@@ -29,16 +29,22 @@ pip install .
 img_aug/
 
 ├── dark/
+
 ├── fog/
+
 ├── light/
+
 └── wind/
 
 ### mode=2 ：
 img_aug/
 
 ├── rain/
+
 ├── snow/
+
 ├── fog_rain/
+
 └── fog_snow/
 
 ## Acknowledgements
