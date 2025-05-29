@@ -1,6 +1,6 @@
 # CDM-Net : A Framework for Cross-View Geo-localization with Multimodal Data
 
-This is official implements for :
+This is official implements for doi：
 
 ## Install 🛠️
 
