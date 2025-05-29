@@ -20,16 +20,18 @@ pip install .
 
 ## Dataset
 
-**CVGL-RGBT link:**
+**1.CVGL-RGBT link:**
+
 Some examples of the RGBT dataset
 ![RGBT](RGBT.png)
 
 
-**Urban-500   link:** https://pan.baidu.com/s/1ah1UT29j7zMTsTPq2Y9xyA?pwd=
+**2.Urban-500   link:** https://pan.baidu.com/s/1ah1UT29j7zMTsTPq2Y9xyA?pwd=
 
 
 
-**For Multi-weather-University1652 use Dynamic_Weather.py to generate**
+
+**3.For Multi-weather-University1652 use Dynamic_Weather.py to generate**
 
 **Set mode=1:**
 
