@@ -20,6 +20,8 @@ pip install .
 
 ## Dataset
 
+The release of the extraction code depends on the acceptance of the paper
+
 ### 1.CVGL-RGBT link:
 
 Some examples of the RGBT dataset
