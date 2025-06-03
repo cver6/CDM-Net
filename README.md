@@ -14,7 +14,7 @@ pip install -r requirements.txt
 pip install .
 ```
 
-**Installation using conventional LSD is as follows:**
+Installation using conventional LSD is as follows:
 ```
 sudo apt-get install build-essential cmake libopencv-dev
 git clone --recursive https://github.com/iago-suarez/pytlsd.git
