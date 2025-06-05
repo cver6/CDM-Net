@@ -43,7 +43,7 @@ Some examples of the Urban-500 dataset
 ![Urban](Urban500.png)
 
 
-### 3.For Multi-weather-University1652 use Dynamic_Weather.py to generate
+### 3.For Multi-Weather University-1652 use Dynamic_Weather.py to generate
 
 **Set mode=1:**
 
