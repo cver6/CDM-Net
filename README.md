@@ -31,7 +31,7 @@ pip3 install .
 
 The release of the extraction code depends on the acceptance of the paper
 
-### 1.CVGL-RGBT link: https://pan.baidu.com/s/1UM82rBlLPYlwjklOUF8Z_A
+### 1.CVGL-RGBT link: https://pan.baidu.com/s/1rFCCOiw00WkKu52jDsGa_g
 
 Some examples of the RGBT dataset
 ![RGBT](RGBT.png)
