@@ -84,4 +84,5 @@ img_aug/
 
 [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
 
-https://github.com/cvg/glue-factory
+[glue-factory](https://github.com/cvg/glue-factory)
+
