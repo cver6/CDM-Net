@@ -11,15 +11,13 @@ pip3 install .
 
 ## Dataset
 
-The release of the extraction code depends on the acceptance of the paper
-
-### 1.CVGL-RGBT link: https://pan.baidu.com/s/1rFCCOiw00WkKu52jDsGa_g
+### 1.CVGL-RGBT link: https://pan.baidu.com/s/1BcAqkuSayrEed8a3WB8jBQ?pwd=9eyg 
 
 Some examples of the RGBT dataset
 ![RGBT](RGBT.png)
 
 
-### 2.Urban-500   link:  https://pan.baidu.com/s/16OXb636QKVv8D07lcshnvA
+### 2.Urban-500   link:  https://pan.baidu.com/s/1gtGPTDXzCnN5IkJ8aKiW5A?pwd=dttc
 
 Some examples of the Urban-500 dataset
 ![Urban](Urban500.png)
