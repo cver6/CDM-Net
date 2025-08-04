@@ -1,19 +1,5 @@
 # CDM-Net : A Framework for Cross-View Geo-localization with Multimodal Data
 
-This is official implements for doi：
-
-## Install 🛠️
-
-To install the software in Ubuntu 22.04 follow these instructions:
-
-```
-sudo apt-get install build-essential cmake libopencv-dev libopencv-contrib-dev
-# Create and activate a virtual environment
-conda create -n cvgl python =3.10
-pip install -r requirements.txt
-pip install .
-```
-
 Installation using conventional LSD is as follows:
 ```
 sudo apt-get install build-essential cmake libopencv-dev
@@ -22,10 +8,6 @@ cd pytlsd
 pip3 install -r requirements.txt
 pip3 install .
 ```
-
-## Running
-
-
 
 ## Dataset
 
